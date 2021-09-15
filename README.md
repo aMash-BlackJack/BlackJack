@@ -32,11 +32,6 @@ GitHub
 Cucumber/Gherkin
 Apache Maven 3.8.1
 
-# Documentation
-
-Created: September 14, 2021 11:34 PM
-Reviewed: No
-
 # BlackJack
 
 ## Premise:
