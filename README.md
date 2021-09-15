@@ -197,13 +197,13 @@ Maven builds a project using its project object model (POM) and a set of plugins
 
 **Pom.XML:**
 
-[Dependencies](https://www.notion.so/6a8833e65603494fa0bc8ed8c642d71b)
+
 
 # React front-end setup
 
 ## npm setup
 
-[Dependencies](https://www.notion.so/b6561c3411e3484b9e8cf06a54a0fb77)
+
 
 # Testing methods
 
